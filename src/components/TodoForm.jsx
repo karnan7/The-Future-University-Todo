@@ -32,7 +32,7 @@ const TodoForm = ({addTodo}) => {
         value={todoString}
         onChange={e => setTodoString(e.target.value)}
         />
-        <Button/>
+        <Button value="Add" variant="big"/>
     </form>
   )
 }
