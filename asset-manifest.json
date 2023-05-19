@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/The-Future-University-Todo/static/css/main.b70dec22.css",
+    "main.js": "/The-Future-University-Todo/static/js/main.9797c5f2.js",
+    "index.html": "/The-Future-University-Todo/index.html",
+    "main.b70dec22.css.map": "/The-Future-University-Todo/static/css/main.b70dec22.css.map",
+    "main.9797c5f2.js.map": "/The-Future-University-Todo/static/js/main.9797c5f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b70dec22.css",
+    "static/js/main.9797c5f2.js"
+  ]
+}
